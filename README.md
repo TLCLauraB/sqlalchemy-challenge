@@ -29,7 +29,7 @@ I utilized the following resources:
 
 
 * References
-    * https://stackoverflow.com/questions/6682784/reducing-number-of-plot-ticks/49714879
+    * Stack Overflow: Reducing Number of Plot Ticks: https://stackoverflow.com/questions/6682784/reducing-number-of-plot-ticks/49714879
     * Flask Documentation: https://flask.palletsprojects.com/en/2.3.x/
     * Flask Debug Mode: https://flask.palletsprojects.com/en/2.3.x/quickstart/#debug-mode
 
