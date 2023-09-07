@@ -1,4 +1,4 @@
-# Import the dependencies.
+# Import the dependencies
 
 import datetime as dt
 import numpy as np
@@ -25,8 +25,8 @@ Base = automap_base()
 Base.prepare(engine, reflect=True)
 
 # Access the reflected classes
-Measurement = Base.classes.measurement
-Station = Base.classes.station
+measurement = Base.classes.measurement
+station = Base.classes.station
 
 if __name__ == "__main__":
     # Create a session
